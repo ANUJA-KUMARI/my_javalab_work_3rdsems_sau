@@ -1,0 +1,3 @@
+This is a test file.
+We are learning BufferedInputStream in Java.
+This file is being read using a byte buffer.
